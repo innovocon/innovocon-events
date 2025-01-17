@@ -132,7 +132,7 @@ export function HackNex() {
   return (
     <div className="pt-16">
       <div className="relative min-h-[60vh] flex items-center justify-center bg-gradient-to-br from-green-900 via-emerald-900 to-teal-900">
-        <div className="absolute inset-0 bg-[url('/images/banners/hacknex.jpg')] bg-cover bg-center opacity-10" />
+        <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80')] bg-cover bg-center opacity-10" />
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
