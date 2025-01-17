@@ -200,17 +200,14 @@ export function Zenith() {
   return (
     <div className="pt-16">
       <div className="relative min-h-[60vh] flex items-center justify-center bg-gradient-to-br from-purple-900 via-pink-900 to-red-900">
-        <img
-          src="/images/banners/zenith-banner.jpg"
-          alt="Zenith 2025"
-          className="absolute inset-0 w-full h-full object-cover"
-        />
-        <div className="absolute inset-0 bg-black/50" />
+        <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80')] bg-cover bg-center opacity-10" />
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           className="relative z-10 text-center px-4 max-w-4xl mx-auto"
         >
+          <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">Zenith 2025</h1>
+          <p className="text-xl md:text-2xl text-gray-300 mb-8">Dominate. Conquer. Reign.</p>
           <a
             href="https://lu.ma/sy7keciz"
             target="_blank"
