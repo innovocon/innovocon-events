@@ -31,20 +31,20 @@ export function Zenith() {
       name: 'Chirag Nahata',
       role: 'Lead Organiser',
       photo: '/images/team/chirag.jpg',
-      designation: 'Tournament Director',
+      designation: 'Lead Organiser',
       socialLinks: {
-        linkedin: 'https://linkedin.com/in/chiragnahata',
-        twitter: 'https://twitter.com/chiragnahata'
+        linkedin: 'https://www.linkedin.com/in/chirag-nahata/',
+        github: 'https://github.com/chiragnahata'
       }
     },
     { 
       name: 'Rajat Mitra',
       role: 'Lead Organiser',
       photo: '/images/team/rajat.jpg',
-      designation: 'Technical Lead',
+      designation: 'Lead Organiser',
       socialLinks: {
-        linkedin: 'https://linkedin.com/in/rajatmitra',
-        twitter: 'https://twitter.com/rajatmitra'
+        linkedin: 'https://www.linkedin.com/in/rajat-mitra-337754295/',
+        github: 'https://github.com/RAJAT-MITRA'
       }
     },
     { 
@@ -53,8 +53,8 @@ export function Zenith() {
       photo: '/images/team/snigdha.jpg',
       designation: 'Event Coordinator',
       socialLinks: {
-        linkedin: 'https://linkedin.com/in/snigdhaghosh',
-        twitter: 'https://twitter.com/snigdhaghosh'
+        linkedin: 'https://www.linkedin.com/in/snigdha-ghosh-834435297/',
+        github: 'https://github.com/snig-code16'
       }
     },
     { 
