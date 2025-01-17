@@ -53,9 +53,9 @@ export function Home() {
     },
     { 
       name: 'Srijita Saha', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/srijita.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: '',
         github: '',
@@ -63,9 +63,9 @@ export function Home() {
     },
     { 
       name: 'Shamonnoy Halder', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/shamonnoy.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: '',
         github: '',
@@ -73,9 +73,9 @@ export function Home() {
     },
     { 
       name: 'Somyadip Ghosh', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/somyadip.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: '',
         github: '',
@@ -93,9 +93,9 @@ export function Home() {
     },
     { 
       name: 'Rajarshi Bhowmik', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/rajarshi.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: 'https://linktr.ee/rajo7',
         github: 'https://linktr.ee/rajo7',
@@ -103,9 +103,9 @@ export function Home() {
     },
     { 
       name: 'Purba Saha', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/purba.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: 'https://www.linkedin.com/in/purba-saha-b273a12b8',
         github: 'https://github.com/Purba234',
@@ -113,9 +113,9 @@ export function Home() {
     },
     { 
       name: 'Rajat Mitra', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/rajat.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: 'https://www.linkedin.com/in/rajat-mitra-337754295/',
         github: 'https://github.com/RAJAT-MITRA',
@@ -123,9 +123,9 @@ export function Home() {
     },
     { 
       name: 'Roshan Kumar Yadav', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/roshan.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: '',
         github: '',
@@ -133,9 +133,9 @@ export function Home() {
     },
     { 
       name: 'Sagar Shaw', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/sagar.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: 'https://www.linkedin.com/in/sagar-shaw-27189b28b',
         github: '',
@@ -143,9 +143,9 @@ export function Home() {
     },
     { 
       name: 'Prinjal Mistry', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/prinjal.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: 'https://www.linkedin.com/in/prinjal-mistry-06b633339/',
         github: '',
@@ -153,19 +153,19 @@ export function Home() {
     },
     { 
       name: 'Rohit Ghosh', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/rohit.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
-        linkedin: '',
+        linkedin: 'https://www.linkedin.com/in/rohit-ghosh-482703308',
         github: '',
       }
     },
     { 
       name: 'Spandan Tah', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/spandan.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: '',
         github: '',
@@ -173,9 +173,9 @@ export function Home() {
     },
     { 
       name: 'Sahin Molla', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/sahin.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: 'https://www.linkedin.com/in/sahinmolla',
         github: '',
@@ -183,9 +183,9 @@ export function Home() {
     },
     { 
       name: 'Ankit Shaw', 
-      role: 'Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/ankit.jpg',
-      designation: 'Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: 'https://www.linkedin.com/in/ankit-shaw-1aa169309',
         github: '',
