@@ -17,7 +17,7 @@ export function Hero() {
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-12">
           Hack. Design. Compete.
-        </p>
+        </p> 
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-6xl mx-auto">
           {[
