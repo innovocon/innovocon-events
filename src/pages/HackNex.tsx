@@ -131,8 +131,8 @@ export function HackNex() {
 
   return (
     <div className="pt-16">
-  <div className="relative min-h-[60vh] flex items-center justify-center bg-gradient-to-br from-green-900 via-emerald-900 to-teal-900">
-    <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80')] bg-cover bg-center opacity-10" />
+    <div className="relative min-h-[60vh] flex items-center justify-center bg-gradient-to-br from-green-900 via-emerald-900 to-teal-900">
+    <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80')] bg-cover bg-center opacity-10"></div>
     <motion.div
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
@@ -140,7 +140,11 @@ export function HackNex() {
     >
       <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">HackNex 2025</h1>
       <p className="text-xl md:text-2xl text-gray-300 mb-8">Hack. Build. Revolutionize.</p>
-      <a href="https://innovocon2025.devfolio.co/" target="_blank" rel="noopener noreferrer">
+      <a
+        href="https://innovocon2025.devfolio.co/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <button className="bg-white text-emerald-900 px-8 py-3 rounded-full font-bold hover:bg-emerald-100 transition-colors">
           Register Now
         </button>
