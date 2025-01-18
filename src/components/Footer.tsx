@@ -9,11 +9,13 @@ export function Footer() {
   ];
 
   const socials = [
-    { icon: Linkedin, href: 'https://www.linkedin.com/company/innovoconevents', label: 'LinkedIn' },
-    { icon: Facebook, href: 'https://www.facebook.com/profile.php?id=61571332025094', label: 'Facebook' },
-    { icon: Instagram, href: 'https://www.instagram.com/innovoconevents/', label: 'Instagram' },
-    { icon: Twitter, href: 'https://x.com/Innovoconevents', label: 'Twitter' }
-  ];
+  { icon: Linkedin, href: 'https://www.linkedin.com/company/innovoconevents', label: 'LinkedIn' },
+  { icon: Facebook, href: 'https://www.facebook.com/profile.php?id=61571332025094', label: 'Facebook' },
+  { icon: Instagram, href: 'https://www.instagram.com/innovoconevents/', label: 'Instagram' },
+  { icon: Twitter, href: 'https://x.com/Innovoconevents', label: 'Twitter' },
+  { icon: Discord, href: 'https://discord.gg/JT2ksVsW', label: 'Discord' },
+  { icon: YouTube, href: 'https://www.youtube.com/channel/UC7bjnKzI1Nqgif_tBZa0XWQ', label: 'YouTube' }
+];
 
   return (
     <footer className="bg-gray-900 border-t border-gray-800">
