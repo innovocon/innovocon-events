@@ -12,9 +12,7 @@ export function Footer() {
     { icon: Linkedin, href: 'https://www.linkedin.com/company/innovoconevents', label: 'LinkedIn' },
     { icon: Facebook, href: 'https://www.facebook.com/profile.php?id=61571332025094', label: 'Facebook' },
     { icon: Instagram, href: 'https://www.instagram.com/innovoconevents/', label: 'Instagram' },
-    { icon: Twitter, href: 'https://x.com/Innovoconevents', label: 'Twitter' },
-    { icon: Discord, href: 'https://discord.gg/JT2ksVsW', label: 'Discord' },
-    { icon: Youtube, href: 'https://www.youtube.com/@InnovoCon', label: 'Youtube' }
+    { icon: Twitter, href: 'https://x.com/Innovoconevents', label: 'Twitter' }
   ];
 
   return (
