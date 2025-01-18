@@ -21,10 +21,10 @@ export function Hero() {
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-6xl mx-auto">
           {[
-            { icon: Code2, title: 'HackNex', desc: '24-Hour Hackathon', path: '/hacknex' },
+            { icon: Code2, title: 'HackNex', desc: '24-Hour Hackathon', path: 'https://innovoconevents.netlify.app/hacknex' },
             { icon: Flag, title: 'HackFlag', desc: 'Capture the Flag', path: 'https://www.thecyberdojo.net/' },
             { icon: Box, title: 'Think 3D', desc: '3D Design Competition', path: 'https://think-3d.smdverse.cloud' },
-            { icon: Gamepad2, title: 'Zenith', desc: 'eSports Tournament', path: '/zenith' },
+            { icon: Gamepad2, title: 'Zenith', desc: 'eSports Tournament', path: 'https://innovoconevents.netlify.app/zenith' },
           ].map((item, index) => (
             <motion.div
               key={item.title}
