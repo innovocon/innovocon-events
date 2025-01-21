@@ -140,9 +140,14 @@ export function HackNex() {
         >
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">HackNex 2025</h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8">Hack. Build. Revolutionize.</p>
-          <button className="bg-white text-emerald-900 px-8 py-3 rounded-full font-bold hover:bg-emerald-100 transition-colors">
+          <a
+            href="https://innovocon2025.devfolio.co/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-white text-emerald-900 px-8 py-3 rounded-full font-bold hover:bg-emerald-100 transition-colors"
+          >
             Register Now
-          </button>
+          </a>
         </motion.div>
       </div>
 
