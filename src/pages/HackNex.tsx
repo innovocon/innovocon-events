@@ -32,9 +32,9 @@ export function HackNex() {
     },
     { 
       name: 'Snigdha Ghosh',
-      role: 'Vice Community Lead',
+      role: 'Coordinator',
       photo: '/images/team/snigdha.jpg',
-      designation: 'Vice Community Lead',
+      designation: 'Coordinator',
       socialLinks: {
         linkedin: 'https://linkedin.com/in/snigdhaghosh',
         twitter: 'https://twitter.com/snigdhaghosh'
@@ -62,9 +62,9 @@ export function HackNex() {
     },
     { 
       name: 'Somyadip Ghosh', 
-      role: 'Coordinator',
+      role: 'Vice Community Lead',
       photo: '/images/team/somyadip.jpg',
-      designation: 'Coordinator',
+      designation: 'Vice Community Lead',
       socialLinks: {
         linkedin: 'https://linkedin.com/in/chiragnahata',
         github: 'https://linkedin.com/in/chiragnahata',
