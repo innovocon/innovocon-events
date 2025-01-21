@@ -43,9 +43,9 @@ export function Home() {
     },
     { 
       name: 'Snigdha Ghosh', 
-      role: 'Vice - Lead Organiser',
+      role: 'Event Coordinator',
       photo: '/images/team/snigdha.jpg',
-      designation: 'Vice - Lead Organiser',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: 'https://www.linkedin.com/in/snigdha-ghosh-834435297/',
         github: 'https://github.com/snig-code16'
@@ -113,9 +113,9 @@ export function Home() {
     },
     { 
       name: 'Rajat Mitra', 
-      role: 'Event Coordinator',
+      role: 'Vice - Lead Organiser',
       photo: '/images/team/rajat.jpg',
-      designation: 'Event Coordinator',
+      designation: 'Vice - Lead Organiser',
       socialLinks: {
         linkedin: 'https://www.linkedin.com/in/rajat-mitra-337754295/',
         github: 'https://github.com/RAJAT-MITRA',
