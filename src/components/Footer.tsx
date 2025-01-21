@@ -1,4 +1,5 @@
-import { Linkedin, Facebook, Instagram, Twitter, MapPin } from 'lucide-react';
+import { Linkedin, Facebook, Instagram, Twitter, MapPin, Youtube } from 'lucide-react';
+import { Disc as Discord } from 'lucide-react';
 
 export function Footer() {
   const events = [
@@ -12,7 +13,9 @@ export function Footer() {
     { icon: Linkedin, href: 'https://www.linkedin.com/company/innovoconevents', label: 'LinkedIn' },
     { icon: Facebook, href: 'https://www.facebook.com/profile.php?id=61571332025094', label: 'Facebook' },
     { icon: Instagram, href: 'https://www.instagram.com/innovoconevents/', label: 'Instagram' },
-    { icon: Twitter, href: 'https://x.com/Innovoconevents', label: 'Twitter' }
+    { icon: Twitter, href: 'https://x.com/Innovoconevents', label: 'Twitter' },
+    { icon: Discord, href: 'https://discord.gg/JT2ksVsW', label: 'Discord' },
+    { icon: Youtube, href: 'https://www.youtube.com/@InnovoCon', label: 'YouTube' }
   ];
 
   return (
@@ -59,7 +62,7 @@ export function Footer() {
             <div className="flex items-start space-x-2 text-gray-400">
               <MapPin className="w-5 h-5 mt-1 flex-shrink-0" />
               <a 
-                href="https://maps.app.goo.gl/HZrKXZKMHDFGWrJc7"
+                href="https://maps.app.goo.gl/wYjzzUSeY6xYNc9D9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-white transition-colors"
