@@ -24,7 +24,7 @@ export function OrganizationStructure() {
       name: 'Prof. (Dr.) Partha Sarkar',
       role: 'Patron',
       designation: 'Principal, JISCE',
-      photo: '/images/leadership/partha-sarkar.jpg'
+      photo: '/images/leadership/partha-sarkar.png'
     },
     {
       name: 'Dr. Sitanath Biswas',
