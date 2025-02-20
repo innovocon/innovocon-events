@@ -16,7 +16,7 @@ export function Zenith() {
       desc: '5v5 Tactical Shooter Tournament',
       format: 'Team (5 Players)',
       prizePool: '₹5,000',
-      schedule: 'Preliminary Rounds: Feb 20-25, 2025\nFinals: Feb 28, 2025'
+      schedule: 'Preliminary Rounds: Feb 20-26, 2025\nFinals: Feb 28, 2025'
     },
     {
       icon: Target,
