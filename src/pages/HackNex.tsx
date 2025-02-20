@@ -53,7 +53,7 @@ export function HackNex() {
     },
     { 
       name: 'Snigdha Ghosh',
-      role: 'Vice Community Lead',
+      role: 'HackNex Lead Organiser',
       photo: '/images/team/snigdha.jpg',
       designation: 'Vice Community Lead',
       socialLinks: {
@@ -63,7 +63,7 @@ export function HackNex() {
     },
     { 
       name: 'Srijita Saha', 
-      role: 'Coordinator',
+      role: 'Event Coordinator',
       photo: '/images/team/srijita.jpg',
       designation: 'Coordinator',
       socialLinks: {
@@ -75,7 +75,7 @@ export function HackNex() {
       name: 'Shamonnoy Halder', 
       role: 'Coordinator',
       photo: '/images/team/shamonnoy.jpg',
-      designation: 'Coordinator',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: 'https://linkedin.com/in/chiragnahata',
         github: 'https://linkedin.com/in/chiragnahata',
@@ -85,7 +85,7 @@ export function HackNex() {
       name: 'Somyadip Ghosh', 
       role: 'Coordinator',
       photo: '/images/team/somyadip.jpg',
-      designation: 'Coordinator',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: 'https://linkedin.com/in/chiragnahata',
         github: 'https://linkedin.com/in/chiragnahata',
@@ -95,7 +95,7 @@ export function HackNex() {
       name: 'Milind Kundu', 
       role: 'Coordinator',
       photo: '/images/team/milind.jpg',
-      designation: 'Coordinator',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: 'https://linkedin.com/in/chiragnahata',
         github: 'https://linkedin.com/in/chiragnahata',
@@ -105,7 +105,7 @@ export function HackNex() {
       name: 'Rajarshi Bhowmik', 
       role: 'Coordinator',
       photo: '/images/team/rajarshi.jpg',
-      designation: 'Coordinator',
+      designation: 'Event Coordinator',
       socialLinks: {
         linkedin: 'https://linkedin.com/in/chiragnahata',
         github: 'https://linkedin.com/in/chiragnahata',
@@ -113,7 +113,7 @@ export function HackNex() {
     },
     { 
       name: 'Purba Saha', 
-      role: 'Coordinator',
+      role: 'Event Coordinator',
       photo: '/images/team/purba.jpg',
       designation: 'Coordinator',
       socialLinks: {
