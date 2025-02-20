@@ -51,9 +51,9 @@ export function OrganizationStructure() {
 
   const facultyCommittee = [
     { name: 'Mr. Subhadip Goswami', role: 'Faculty Member' },
-    { name: 'Mr. Sanket', role: 'Faculty Member' },
+    { name: 'Mr. Sanket Dan', role: 'Faculty Member' },
     { name: 'Dr. Arun Kumar Sadhu', role: 'Faculty Member' },
-    { name: 'Mr. Uddalak Mitra', role: 'Faculty Member' },
+    { name: 'Dr. Uddalak Mitra', role: 'Faculty Member' },
     { name: 'Dr. Monish Mukul Das', role: 'Faculty Member' },
     { name: 'Mr. Anirudha Ghosh', role: 'Faculty Member' },
     { name: 'Ms. Trisha Bera', role: 'Faculty Member' },
