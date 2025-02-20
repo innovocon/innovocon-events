@@ -49,8 +49,18 @@ export function Home() {
       }
     },
     { 
-      name: 'Snigdha Ghosh', 
+      name: 'Rajat Mitra', 
       role: 'Vice - Lead Organiser',
+      photo: '/images/team/rajat.jpg',
+      designation: 'Event Coordinator',
+      socialLinks: {
+        linkedin: 'https://www.linkedin.com/in/rajat-mitra-337754295/',
+        github: 'https://github.com/RAJAT-MITRA',
+      }
+    },
+    { 
+      name: 'Snigdha Ghosh', 
+      role: 'Event Coordinator',
       photo: '/images/team/snigdha.jpg',
       designation: 'Vice - Lead Organiser',
       socialLinks: {
@@ -116,16 +126,6 @@ export function Home() {
       socialLinks: {
         linkedin: 'https://www.linkedin.com/in/purba-saha-b273a12b8',
         github: 'https://github.com/Purba234',
-      }
-    },
-    { 
-      name: 'Rajat Mitra', 
-      role: 'Event Coordinator',
-      photo: '/images/team/rajat.jpg',
-      designation: 'Event Coordinator',
-      socialLinks: {
-        linkedin: 'https://www.linkedin.com/in/rajat-mitra-337754295/',
-        github: 'https://github.com/RAJAT-MITRA',
       }
     },
     { 
