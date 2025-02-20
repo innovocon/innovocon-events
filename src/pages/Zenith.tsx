@@ -45,7 +45,7 @@ export function Zenith() {
     },
     { 
       name: 'Rajat Mitra',
-      role: 'Lead Organiser',
+      role: 'Zenith Lead Organiser',
       photo: '/images/team/rajat.jpg',
       designation: 'Lead Organiser',
       socialLinks: {
