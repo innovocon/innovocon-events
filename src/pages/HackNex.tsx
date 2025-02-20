@@ -5,7 +5,7 @@ import { AnimatedSection } from '../components/AnimatedSection';
 export function HackNex() {
   const stats = [
     { icon: Calendar, title: 'Date', desc: 'February 27-28, 2025' },
-    { icon: Users, title: 'Team Size', desc: '2-4 Members' },
+    { icon: Users, title: 'Team Size', desc: '2-5 Members' },
     { icon: Trophy, title: 'Prize Pool', desc: '₹12,000 + Prizes' },
     { icon: Timer, title: 'Duration', desc: '24 Hours' },
   ];
