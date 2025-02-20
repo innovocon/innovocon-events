@@ -14,7 +14,7 @@ export function Hero() {
         className="relative z-10 text-center px-4"
       >
         <div className="flex flex-col md:flex-row items-center justify-center mb-8">
-          <img src="/images/logos/jisce.png" alt="JISCE Logo" className="w-24 h-24 object-contain mb-4 md:mb-0" />
+          <img src="/images/logos/jisce25.png" alt="JISCE Logo" className="w-24 h-24 object-contain mb-4 md:mb-0" />
           <h2 className="text-xl md:text-3xl text-white md:ml-4">25 Glorious Years of Excellence at JISCE</h2>
         </div>
         
